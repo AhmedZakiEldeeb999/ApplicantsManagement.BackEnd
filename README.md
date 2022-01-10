@@ -29,6 +29,12 @@ repository pattern,Unit of Work Pattern and dependency injection design pattern
 
 -Unit tests implemented at ApplicantsManagement.UnitTest project
 
+-ApplicantsManagement project contain the Endpoints
+
+-ApplicantsManagement.Domain project contain the business logic
+
+-ApplicantsManagement.Data project contain the data access layer(Entity FrameWork)
+
 
 
 
