@@ -16,6 +16,9 @@ ConnectionString at the appsetting File:
 Technologies has been used:
 ASP.net Core ,Entity Framework Code First
 
+Design patterns has been Used:
+repository pattern,Unit of Work Pattern and dependency injection design pattern
+
 
 
 
