@@ -35,6 +35,7 @@ repository pattern,Unit of Work Pattern and dependency injection design pattern
 
 -ApplicantsManagement.Data project contain the data access layer(Entity FrameWork)
 
+![image](https://user-images.githubusercontent.com/95050832/148789398-69abb9fa-a680-49b2-8fd3-8ad40726e8c5.png)
 
 
 
