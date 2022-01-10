@@ -27,6 +27,8 @@ repository pattern,Unit of Work Pattern and dependency injection design pattern
 
 -Swagger local link: https://localhost:44328/index.html
 
+-Unit tests implemented at ApplicantsManagement.UnitTest project
+
 
 
 
