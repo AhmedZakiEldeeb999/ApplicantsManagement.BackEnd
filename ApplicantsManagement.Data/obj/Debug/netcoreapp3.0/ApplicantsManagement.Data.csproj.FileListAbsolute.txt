@@ -1,0 +1,10 @@
+C:\Users\a.zaki\source\repos\ApplicantsManagement\ApplicantsManagement.Data\bin\Debug\netcoreapp3.0\ApplicantsManagement.Data.deps.json
+C:\Users\a.zaki\source\repos\ApplicantsManagement\ApplicantsManagement.Data\bin\Debug\netcoreapp3.0\ApplicantsManagement.Data.dll
+C:\Users\a.zaki\source\repos\ApplicantsManagement\ApplicantsManagement.Data\obj\Debug\netcoreapp3.0\ApplicantsManagement.Data.csprojAssemblyReference.cache
+C:\Users\a.zaki\source\repos\ApplicantsManagement\ApplicantsManagement.Data\obj\Debug\netcoreapp3.0\ApplicantsManagement.Data.AssemblyInfoInputs.cache
+C:\Users\a.zaki\source\repos\ApplicantsManagement\ApplicantsManagement.Data\obj\Debug\netcoreapp3.0\ApplicantsManagement.Data.AssemblyInfo.cs
+C:\Users\a.zaki\source\repos\ApplicantsManagement\ApplicantsManagement.Data\bin\Debug\netcoreapp3.0\ApplicantsManagement.Data.pdb
+C:\Users\a.zaki\source\repos\ApplicantsManagement\ApplicantsManagement.Data\obj\Debug\netcoreapp3.0\ApplicantsManagement.Data.dll
+C:\Users\a.zaki\source\repos\ApplicantsManagement\ApplicantsManagement.Data\obj\Debug\netcoreapp3.0\ApplicantsManagement.Data.pdb
+C:\Users\a.zaki\source\repos\ApplicantsManagement\ApplicantsManagement.Data\bin\Debug\netcoreapp3.0\ApplicantsManagement.Data.runtimeconfig.json
+C:\Users\a.zaki\source\repos\ApplicantsManagement\ApplicantsManagement.Data\bin\Debug\netcoreapp3.0\ApplicantsManagement.Data.runtimeconfig.dev.json

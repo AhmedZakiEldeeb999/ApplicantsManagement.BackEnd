@@ -1,0 +1,11 @@
+C:\Users\a.zaki\source\repos\ApplicantsManagement\ApplicantsManagement.Domain\obj\Debug\netcoreapp3.0\ApplicantsManagement.Domain.csprojAssemblyReference.cache
+C:\Users\a.zaki\source\repos\ApplicantsManagement\ApplicantsManagement.Domain\obj\Debug\netcoreapp3.0\ApplicantsManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\a.zaki\source\repos\ApplicantsManagement\ApplicantsManagement.Domain\obj\Debug\netcoreapp3.0\ApplicantsManagement.Domain.AssemblyInfo.cs
+C:\Users\a.zaki\source\repos\ApplicantsManagement\ApplicantsManagement.Domain\bin\Debug\netcoreapp3.0\ApplicantsManagement.Domain.deps.json
+C:\Users\a.zaki\source\repos\ApplicantsManagement\ApplicantsManagement.Domain\bin\Debug\netcoreapp3.0\ApplicantsManagement.Domain.dll
+C:\Users\a.zaki\source\repos\ApplicantsManagement\ApplicantsManagement.Domain\bin\Debug\netcoreapp3.0\ApplicantsManagement.Domain.pdb
+C:\Users\a.zaki\source\repos\ApplicantsManagement\ApplicantsManagement.Domain\bin\Debug\netcoreapp3.0\ApplicantsManagement.Data.dll
+C:\Users\a.zaki\source\repos\ApplicantsManagement\ApplicantsManagement.Domain\bin\Debug\netcoreapp3.0\ApplicantsManagement.Data.pdb
+C:\Users\a.zaki\source\repos\ApplicantsManagement\ApplicantsManagement.Domain\obj\Debug\netcoreapp3.0\ApplicantsManagement.Domain.csproj.CopyComplete
+C:\Users\a.zaki\source\repos\ApplicantsManagement\ApplicantsManagement.Domain\obj\Debug\netcoreapp3.0\ApplicantsManagement.Domain.dll
+C:\Users\a.zaki\source\repos\ApplicantsManagement\ApplicantsManagement.Domain\obj\Debug\netcoreapp3.0\ApplicantsManagement.Domain.pdb
