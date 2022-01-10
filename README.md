@@ -23,6 +23,9 @@ repository pattern,Unit of Work Pattern and dependency injection design pattern
 
 -Make ApplicantsManagement project as startup project
 
+-You must run this project first to make the UI project(at ApplicantsManagement.UI) run also
+
+
 
 
 
