@@ -13,4 +13,10 @@ ConnectionString at the appsetting File:
 ![image](https://user-images.githubusercontent.com/95050832/148783809-6da88c17-4f4a-4858-94df-06c25eaa8adc.png)
 
 
+Technologies has been used:
+ASP.net Core ,Entity Framework Code First
+
+
+
+
 
