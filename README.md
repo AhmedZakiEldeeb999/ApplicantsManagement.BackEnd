@@ -25,6 +25,8 @@ repository pattern,Unit of Work Pattern and dependency injection design pattern
 
 -You must run this Solution first to make the UI project(at ApplicantsManagement.UI) run also
 
+-Swagger local link: https://localhost:44328/index.html
+
 
 
 
