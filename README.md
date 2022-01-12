@@ -14,6 +14,13 @@
 
 -Please just change the server name on connection string to match you local machine
 
+
+-If you faced an error on building the project because .xml file of swagger,please click this check box twice,to genertate the xml file locally
+
+![image](https://user-images.githubusercontent.com/95050832/149087190-9b749055-9aea-4754-9b19-6080fcbe3167.png)
+
+
+
 -Technologies has been used:
 ASP.net Core ,Entity Framework Code First
 
