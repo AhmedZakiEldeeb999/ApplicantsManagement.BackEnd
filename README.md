@@ -10,7 +10,8 @@
 ![image](https://user-images.githubusercontent.com/95050832/148783540-97c2d3cf-9283-4c42-b780-5dfc7b848b17.png)
 
 -ConnectionString at the appsetting File:
-![image](https://user-images.githubusercontent.com/95050832/148783809-6da88c17-4f4a-4858-94df-06c25eaa8adc.png)
+![image](https://user-images.githubusercontent.com/95050832/149087336-2a7a530c-2432-4d41-b968-75840a6082f6.png)
+
 
 -Please just change the server name on connection string to match you local machine
 
